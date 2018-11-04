@@ -1,6 +1,6 @@
 # base64linkdecode
 
-This is a super simple bookmarklet/extension that decodes links in encrypted in Base64.
+This is a super simple bookmarklet/extension that decodes and opens links encrypted in Base64.
 
 ## Bookmarklet
 
