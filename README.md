@@ -4,8 +4,9 @@ This is a super simple bookmarklet/extension that decodes links in encrypted in 
 
 ## Bookmarklet
 
-To use the bookmarklet, <a href="javascript: window.open(atob(prompt("Insert encoded link...")));
-">drag this link</a> to your bookmarks bar.
+Working on putting up a link.
+
+If you know how, open up the js file in this repo and use that in the bookmarklet.
 
 ## Chrome Extension
 
